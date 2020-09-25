@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+ 
+ #### Name: [Devarsh Patel](https://github.com/kzuri)
+ - Place: Pune, India
+ - GitHub: [kzuri](https://github.com/kzuri)
